@@ -6,6 +6,7 @@ Create in python
 Rulay EBK 
 Github: https://github.com/RulayEBK
 Discord: https://discord.gg/FdBYx4seFq
-
-#Bot Image
+#Requirements
+pip install discord
+pip install os
 ![image](https://github.com/RulayEBK/Moderation-Bot/assets/166599715/11325d8d-02f6-4d60-a1ee-1cffe2fa4379)
